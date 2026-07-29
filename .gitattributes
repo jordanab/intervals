@@ -1,0 +1,4 @@
+# Store data files verbatim — no line-ending conversion — so the raw file
+# served by GitHub is byte-for-byte identical to the source.
+*.csv -text
+*.json -text

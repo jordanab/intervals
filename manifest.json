@@ -1,0 +1,358 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-07-28T20:38:22.022195Z",
+  "configuration": "all",
+  "requested_counties": [
+    "BE",
+    "CA",
+    "CH",
+    "CI",
+    "CO",
+    "CU",
+    "DA",
+    "DB",
+    "ED",
+    "GR",
+    "GU",
+    "HA",
+    "HI",
+    "LA",
+    "LE",
+    "LI",
+    "LU",
+    "MK",
+    "MO",
+    "OT",
+    "QU",
+    "RA",
+    "RO",
+    "SA",
+    "SF",
+    "SI",
+    "SJ",
+    "SM",
+    "SO",
+    "TA",
+    "TO",
+    "UN",
+    "VA"
+  ],
+  "bounding_box": null,
+  "source_master_file": "all_masterWellIntervals_withMaterial.csv",
+  "columns": [
+    "well",
+    "topDepth_ft",
+    "bottomDepth_ft",
+    "topElev_ft",
+    "bottomElev_ft",
+    "facies",
+    "lithCode",
+    "county",
+    "latitude",
+    "longitude",
+    "name_mismatch",
+    "materialCleanNoConf"
+  ],
+  "total_rows": 527266,
+  "total_wells": 83923,
+  "county_file_count": 33,
+  "counties": [
+    {
+      "code": "BE",
+      "name": "Bernalillo",
+      "file": "BE.csv",
+      "rows": 78344,
+      "wells": 11365,
+      "bytes": 8610209,
+      "sha256": "33d7c11f5c5ab308d146346c5861807900a6bfac201266e3b0d3677ec5f669a9"
+    },
+    {
+      "code": "CA",
+      "name": "Catron",
+      "file": "CA.csv",
+      "rows": 4743,
+      "wells": 1093,
+      "bytes": 537533,
+      "sha256": "104b96a5c4824c0a10c6d6e9a3b963cfe33e3f22e203b72109f0a73220f47d7f"
+    },
+    {
+      "code": "CH",
+      "name": "Chaves",
+      "file": "CH.csv",
+      "rows": 19289,
+      "wells": 2844,
+      "bytes": 2122585,
+      "sha256": "6c22a1692233d329664ca71fdb6d5b4b5a7d53e87a06de1976e884755a917bd2"
+    },
+    {
+      "code": "CI",
+      "name": "Cibola",
+      "file": "CI.csv",
+      "rows": 5444,
+      "wells": 1131,
+      "bytes": 604320,
+      "sha256": "3dfc97efc1550a0936cf8ff420bf252b96079bc905d1bd84cf0cbfac82a79d99"
+    },
+    {
+      "code": "CO",
+      "name": "Colfax",
+      "file": "CO.csv",
+      "rows": 4508,
+      "wells": 674,
+      "bytes": 504752,
+      "sha256": "25bd7002f7f396a4fb916f7abd1a783af1d048d1770fc90ea6bee6fdc2d99030"
+    },
+    {
+      "code": "CU",
+      "name": "Curry",
+      "file": "CU.csv",
+      "rows": 9156,
+      "wells": 996,
+      "bytes": 1074789,
+      "sha256": "567525a005ac3f679e54fc82fe7ea3340460b994bee20f83b67f92bbed33b0b1"
+    },
+    {
+      "code": "DA",
+      "name": "Dona Ana",
+      "file": "DA.csv",
+      "rows": 34083,
+      "wells": 4715,
+      "bytes": 3711597,
+      "sha256": "416bb869049c685e4f2a9d7f787b870fb307a2b855983b3ad180a8c081e5d24b"
+    },
+    {
+      "code": "DB",
+      "name": "DeBaca",
+      "file": "DB.csv",
+      "rows": 1421,
+      "wells": 285,
+      "bytes": 160394,
+      "sha256": "2c0e7983b24ead70e95c28fef0cf7ca127791de2378d04694b6997d43d734234"
+    },
+    {
+      "code": "ED",
+      "name": "Eddy",
+      "file": "ED.csv",
+      "rows": 17651,
+      "wells": 2787,
+      "bytes": 2024854,
+      "sha256": "c76c5a95a965c61799ef59d1359d4ff5ddeb299eb5cd87541f06b7bbcf07f434"
+    },
+    {
+      "code": "GR",
+      "name": "Grant",
+      "file": "GR.csv",
+      "rows": 3810,
+      "wells": 1253,
+      "bytes": 437370,
+      "sha256": "ccfc2abd6fe73f724d7088d21ad1977c60d41136cfbd14ebc344bf9ebc3ba110"
+    },
+    {
+      "code": "GU",
+      "name": "Guadalupe",
+      "file": "GU.csv",
+      "rows": 1204,
+      "wells": 194,
+      "bytes": 135421,
+      "sha256": "5b1a1a07a0c699904e287eb1a39e24d0fa4dade5390ae215da7ad00a4cf1ab5d"
+    },
+    {
+      "code": "HA",
+      "name": "Harding",
+      "file": "HA.csv",
+      "rows": 1205,
+      "wells": 131,
+      "bytes": 139935,
+      "sha256": "3f7619b409c9ae69356b865204f0de947670ca03f1a6fa7d3c4b53a9aa27aa0f"
+    },
+    {
+      "code": "HI",
+      "name": "Hidalgo",
+      "file": "HI.csv",
+      "rows": 3565,
+      "wells": 544,
+      "bytes": 398110,
+      "sha256": "d6f7d79a2a81bc5ea745dfa64c4436a03e6267cf48732ac5f90da4c66931c336"
+    },
+    {
+      "code": "LA",
+      "name": "Los Alamos",
+      "file": "LA.csv",
+      "rows": 116,
+      "wells": 17,
+      "bytes": 13737,
+      "sha256": "cb16623f11006cfce8cc99334a19e7aa26e06e29a2110b1d6d4596eaec53fa43"
+    },
+    {
+      "code": "LE",
+      "name": "Lea",
+      "file": "LE.csv",
+      "rows": 59650,
+      "wells": 10044,
+      "bytes": 6404747,
+      "sha256": "92f7e044f301961a9963616bb51a8a19ae1cbe936be33b3495d393dc43df5ddb"
+    },
+    {
+      "code": "LI",
+      "name": "Lincoln",
+      "file": "LI.csv",
+      "rows": 18804,
+      "wells": 2513,
+      "bytes": 2117733,
+      "sha256": "9c3922711026d1055eba47b83d11d1481fdba41bce689074dfa0b17fb545fa7c"
+    },
+    {
+      "code": "LU",
+      "name": "Luna",
+      "file": "LU.csv",
+      "rows": 16616,
+      "wells": 1669,
+      "bytes": 1818757,
+      "sha256": "d7942c3dbd6f0cb4c0673a29d2701ad3863ea4846a4ad372e2a8e8de7acf05ee"
+    },
+    {
+      "code": "MK",
+      "name": "McKinley",
+      "file": "MK.csv",
+      "rows": 5220,
+      "wells": 893,
+      "bytes": 603947,
+      "sha256": "087c67781e3984e49c11dae7d592bfdadc96f6fdef7231383bad56a5132781bd"
+    },
+    {
+      "code": "MO",
+      "name": "Mora",
+      "file": "MO.csv",
+      "rows": 4598,
+      "wells": 702,
+      "bytes": 508787,
+      "sha256": "cb181acb187b2f3f96f28c6afaf92a420ee5597eed385fc0436cd6a86b6c9ee7"
+    },
+    {
+      "code": "OT",
+      "name": "Otero",
+      "file": "OT.csv",
+      "rows": 20396,
+      "wells": 3125,
+      "bytes": 2315130,
+      "sha256": "6c66815856a670d52199a2402d02abd3c03b1ff0139d1189076b7836f8d421e2"
+    },
+    {
+      "code": "QU",
+      "name": "Quay",
+      "file": "QU.csv",
+      "rows": 1257,
+      "wells": 185,
+      "bytes": 150940,
+      "sha256": "d507b655d40bbddbe1001093bcb5562d13d984539a054cc750750514b9fe071a"
+    },
+    {
+      "code": "RA",
+      "name": "Rio Arriba",
+      "file": "RA.csv",
+      "rows": 23293,
+      "wells": 5957,
+      "bytes": 2522882,
+      "sha256": "d0d11e76d682f04d2ab4131ebe71ebf655e9ea7c4943db4cbae15201bc4ac31f"
+    },
+    {
+      "code": "RO",
+      "name": "Roosevelt",
+      "file": "RO.csv",
+      "rows": 7716,
+      "wells": 1312,
+      "bytes": 814893,
+      "sha256": "7787774c3f151e77692d1dffc4fcf9bc814b4f43dc0c301008e3c5879a90cd66"
+    },
+    {
+      "code": "SA",
+      "name": "Sandoval",
+      "file": "SA.csv",
+      "rows": 7716,
+      "wells": 1312,
+      "bytes": 814893,
+      "sha256": "4f1e13400eb16a3466e6993599e9cc743f7f7ebb0c3cdb7031246f183080aba4"
+    },
+    {
+      "code": "SF",
+      "name": "Santa Fe",
+      "file": "SF.csv",
+      "rows": 46011,
+      "wells": 8370,
+      "bytes": 5135013,
+      "sha256": "c64510b80551e9a5ae3ab5122689455051b319d37a79d2a020a4570caad509ee"
+    },
+    {
+      "code": "SI",
+      "name": "Sierra",
+      "file": "SI.csv",
+      "rows": 7716,
+      "wells": 1410,
+      "bytes": 885484,
+      "sha256": "d8d0914c0c030c190fc5dfea70454331d377ce043f489473db299310263c502b"
+    },
+    {
+      "code": "SJ",
+      "name": "San Juan",
+      "file": "SJ.csv",
+      "rows": 6010,
+      "wells": 2116,
+      "bytes": 649737,
+      "sha256": "57ac96b9874cc1effe5923444192dd99dc797a9c117732faed25b847552c6bae"
+    },
+    {
+      "code": "SM",
+      "name": "San Miguel",
+      "file": "SM.csv",
+      "rows": 17425,
+      "wells": 2138,
+      "bytes": 1954858,
+      "sha256": "99fced0fb6f99350943d313d6703c545fbf66e6cff550b9935a80353d724a4a9"
+    },
+    {
+      "code": "SO",
+      "name": "Socorro",
+      "file": "SO.csv",
+      "rows": 8916,
+      "wells": 1793,
+      "bytes": 988284,
+      "sha256": "6c0c785741997df79f8c632e8753f60d5571e1154d077eda01b8b478ef37f43d"
+    },
+    {
+      "code": "TA",
+      "name": "Taos",
+      "file": "TA.csv",
+      "rows": 25475,
+      "wells": 4966,
+      "bytes": 2851754,
+      "sha256": "4c99cf8e8ca41b12f2a27523d8bad622e5a31c502397b0d95edb63859cb0c118"
+    },
+    {
+      "code": "TO",
+      "name": "Torrance",
+      "file": "TO.csv",
+      "rows": 20259,
+      "wells": 2641,
+      "bytes": 2229097,
+      "sha256": "b668b6766351bc74e53e5bd595e94d6ab21085be13e8774c545977ec4cfda1aa"
+    },
+    {
+      "code": "UN",
+      "name": "Union",
+      "file": "UN.csv",
+      "rows": 2940,
+      "wells": 343,
+      "bytes": 356726,
+      "sha256": "124b53e198a5a4561f214c947cabdd2397efc56884a3cd49cf45f0642797ba8b"
+    },
+    {
+      "code": "VA",
+      "name": "Valencia",
+      "file": "VA.csv",
+      "rows": 42709,
+      "wells": 6016,
+      "bytes": 4653997,
+      "sha256": "1bdc4260adf761606229de30c180fb189773e0e623e5d7d296f69fb5a787b9b3"
+    }
+  ]
+}
