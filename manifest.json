@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-21T15:11:52.097419Z",
+  "generated_at_utc": "2026-08-21T15:33:48.794616Z",
   "configuration": "all",
   "requested_counties": [
     "BE",
@@ -100,7 +100,7 @@
       "wells": 11229,
       "bytes": 22305585,
       "sha256": "eab4454442ed099e8eac0d75c3f248a2973ef9a793eb37ca3b6562aa4ddc2501",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -124,9 +124,9 @@
       "file": "CA.csv",
       "rows": 5001,
       "wells": 1092,
-      "bytes": 1459714,
-      "sha256": "4e19ac7d0cf1120d8b1500eb81a1d51ff90b615c916226e32aa619b0b6435e20",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "bytes": 1459715,
+      "sha256": "3f490b8d4473501b28e6a770004824b5eb33de1f008acb928366bd5c0adf8689",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -152,7 +152,7 @@
       "wells": 2843,
       "bytes": 5539440,
       "sha256": "c1fe63fa8b781f042fed6c8013961261c1765689e1cbd3931c3ec8a929ea1577",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -178,7 +178,7 @@
       "wells": 1133,
       "bytes": 1659075,
       "sha256": "40d101136e4c96dd7ccc40187993954b928e79d68cf816473248f82a3a73d72c",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -204,7 +204,7 @@
       "wells": 674,
       "bytes": 1331402,
       "sha256": "99dc81b66af9c5c5df3f32ba5762b889f3c41a9a3bb5f4e43de1beb05af2e4fc",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -230,7 +230,7 @@
       "wells": 993,
       "bytes": 2445909,
       "sha256": "bba0acae271e1b2e49abed770ebccf62dd564bd17eee8797058839ddcf196baa",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -256,7 +256,7 @@
       "wells": 4525,
       "bytes": 9200235,
       "sha256": "f5f0504c7f7e4bd77b1c05396864a372ef2d88562b1af360bd3f6b059a96c513",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -282,7 +282,7 @@
       "wells": 285,
       "bytes": 428430,
       "sha256": "40904ac1fc880439c3e207328b48ddca88125f88ddf6e88912c2dae44bf99d85",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -308,7 +308,7 @@
       "wells": 2787,
       "bytes": 5198272,
       "sha256": "75fe662a3e7b1beea11e56561d8ff8cc7c257dbbc91d1d1318376b04713834ec",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -334,7 +334,7 @@
       "wells": 1250,
       "bytes": 1147504,
       "sha256": "9c10cee4473e488dd8a24e8313843dc8d9347bcbb4a12c0cba7507fb669d3f3b",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -360,7 +360,7 @@
       "wells": 194,
       "bytes": 349818,
       "sha256": "ef0637d09b3e6328997f77a054b9cc5f08ecbef1e8523f55b19a96ab8b2f5e44",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -386,7 +386,7 @@
       "wells": 131,
       "bytes": 356813,
       "sha256": "d04f9e9f0be010eb560029dcb3ecf8b8eed8f3960745285a181b1e75511814cc",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -412,7 +412,7 @@
       "wells": 544,
       "bytes": 1029778,
       "sha256": "e82a46be613d2f0bfedeca57bf55fcf19ef57c4181cba36a59cc36c3a506fb28",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -438,7 +438,7 @@
       "wells": 17,
       "bytes": 33490,
       "sha256": "54e86a00c91c121b86759832497a607d2ce6db8d55d4fef9f5cdab602d88ba2e",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -464,7 +464,7 @@
       "wells": 10000,
       "bytes": 16669141,
       "sha256": "ed7b48ed4b0e92b578ada839164fbbb62a9b008970a6f0f9dd7603f2cd289d09",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -490,7 +490,7 @@
       "wells": 2514,
       "bytes": 5466746,
       "sha256": "78f35e11a377d406fcff40b9b3d7ad1af124e869cf2da9786f92d4e09f0e14e5",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -516,7 +516,7 @@
       "wells": 1663,
       "bytes": 4755254,
       "sha256": "b4763298836a10b5485297657dcedf5a4844cc8017c729e5dfcd90ec6acdedbe",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -542,7 +542,7 @@
       "wells": 893,
       "bytes": 1533936,
       "sha256": "1d10b25c912e0f96d81f4e45d49a2e15e8eee1bf6d71a103c33e4faeeb6f95f5",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -568,7 +568,7 @@
       "wells": 702,
       "bytes": 1335661,
       "sha256": "4b999e792c6e93cf9db56fc54b2104ef9bedde350844089b17bb383fc4d95229",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -594,7 +594,7 @@
       "wells": 3124,
       "bytes": 5882308,
       "sha256": "96a2ffe6213917a98717999c9cd72bbaa000d5d03460b14bddbef28583cabe05",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -620,7 +620,7 @@
       "wells": 185,
       "bytes": 377198,
       "sha256": "45ba978ee8e63571bcb5a7c405e71a2168c5594584a6f6d2e2992714b9864fb2",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -646,7 +646,7 @@
       "wells": 5955,
       "bytes": 6703283,
       "sha256": "6e83ce1dfdfd47bf4264d95d08b155cc175a04ba21bea6d3491f5c2ccb90aaaa",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -672,7 +672,7 @@
       "wells": 1312,
       "bytes": 2204125,
       "sha256": "434731c35e29027b69fde9b18b84d559be666c988d2f57ba7b7acf18c9335496",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -698,7 +698,7 @@
       "wells": 1312,
       "bytes": 2204125,
       "sha256": "f02d274b4ccd8b31bf4b27a1462ba7ddcc1df4bb24050ed9e811598b7ee2b9ce",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -724,7 +724,7 @@
       "wells": 8364,
       "bytes": 13293623,
       "sha256": "708749239c65b04406df588c6645a83e5b53daea0895ee16a743f26589c5d2fc",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -750,7 +750,7 @@
       "wells": 1405,
       "bytes": 2196983,
       "sha256": "24e2bb6e15329113e88096ab1bb5b17050557a12cfcfc354bcd9e94204abc818",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -776,7 +776,7 @@
       "wells": 2116,
       "bytes": 1724440,
       "sha256": "c31ff1f03d703ca478a522fb59e33a6c9f02a639142594e673d6bfd405467d98",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -802,7 +802,7 @@
       "wells": 2137,
       "bytes": 5041781,
       "sha256": "a0a7c6aa359afca4f429857dc78a79b66356ccba4c3869b76a2fcecaf57f0b4b",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -828,7 +828,7 @@
       "wells": 1793,
       "bytes": 2587577,
       "sha256": "429fe0eebff2b454b3a6f353d0441780b0a8a6aa987f12d851eef83192305371",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -854,7 +854,7 @@
       "wells": 4965,
       "bytes": 7390169,
       "sha256": "cba558c73ce8bd8d9733097fa539e63156016b8e3a056075bf54f6957ef74893",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -880,7 +880,7 @@
       "wells": 2639,
       "bytes": 5725922,
       "sha256": "f3cf868c0fb30e2dc3ae5a637928a9bd78afe0b7a669bd8e0e63666f6796149a",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -906,7 +906,7 @@
       "wells": 343,
       "bytes": 883855,
       "sha256": "fe3b322edc3f86b71f07ae8b8de9f38c41a59bd9c43a708b44e229eae71fb4e6",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -932,7 +932,7 @@
       "wells": 6002,
       "bytes": 12121751,
       "sha256": "51989d78c3797bf7a71ecaef5fbc4bb40f15507b77b815a0eb7ef6b564402fc0",
-      "date_generated": "2026-08-21T15:11:52.097419Z",
+      "date_generated": "2026-08-21T15:33:48.794616Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
