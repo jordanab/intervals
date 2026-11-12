@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-27T15:23:54.210653Z",
+  "generated_at_utc": "2026-11-12T19:20:29.435148Z",
   "configuration": "all",
   "requested_counties": [
     "BE",
@@ -41,6 +41,7 @@
   "source_master_file": "all_masterWellIntervals_withMaterial.csv",
   "columns": [
     "well",
+    "true_well",
     "topDepth_ft",
     "bottomDepth_ft",
     "topElev_ft",
@@ -51,7 +52,8 @@
     "latitude",
     "longitude",
     "materialCleanNoConf",
-    "feith_link"
+    "feith_link",
+    "identity_note"
   ],
   "counties_written_this_run": [
     "BE",
@@ -88,8 +90,8 @@
     "UN",
     "VA"
   ],
-  "total_rows": 526827,
-  "total_wells": 83628,
+  "total_rows": 526808,
+  "total_wells": 83794,
   "county_file_count": 34,
   "counties": [
     {
@@ -97,14 +99,15 @@
       "name": "Bernalillo",
       "file": "BE.csv",
       "rows": 66145,
-      "wells": 9561,
-      "bytes": 19020311,
-      "sha256": "0594166a3241fb35bb339a008f9e1b779ec88aa48e02671e594cecc5fad97d59",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "wells": 9569,
+      "bytes": 20043194,
+      "sha256": "fcf098c2ad46f0ace8a4d8c12afe3868fd1dffa2e175b283c15a39972d8ed96d",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -115,7 +118,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -124,13 +128,14 @@
       "file": "CA.csv",
       "rows": 4995,
       "wells": 1090,
-      "bytes": 1446774,
-      "sha256": "115a3040c99d78a4465c5e5e5cb5f7551661df0b07b0fd953bbf3cb7f93e268d",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 1531588,
+      "sha256": "7f11eb0a13c7b932c3677fda95334b5e97c2fca040c4644976305bb2490afe9b",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -141,7 +146,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -150,13 +156,14 @@
       "file": "CH.csv",
       "rows": 19209,
       "wells": 2834,
-      "bytes": 5510010,
-      "sha256": "797b22c3acc98baadc18595bf7c853e771634029a6c83057fbce3102803f37d6",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 5943259,
+      "sha256": "5e60ae3920cb42e3d187282426eb9e19dd70888c73a45e9e36cd0edeeb415fa3",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -167,22 +174,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "CI",
       "name": "Cibola",
       "file": "CI.csv",
-      "rows": 5130,
-      "wells": 975,
-      "bytes": 1462378,
-      "sha256": "9e8d20a3391cd62a84aba4ec8dd0f79ae794a85a6bc5123ca7dd647f06250a70",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "rows": 5137,
+      "wells": 983,
+      "bytes": 1537989,
+      "sha256": "349840527462fc638d57d7018901a81875a569948bacb5a07be9b03292c87974",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -193,22 +202,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "CO",
       "name": "Colfax",
       "file": "CO.csv",
-      "rows": 4280,
+      "rows": 4292,
       "wells": 607,
-      "bytes": 1241483,
-      "sha256": "61ce2338a09226032f0ba105609a8a634eb070c0de81ce3e82fdab486becc744",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 1308615,
+      "sha256": "fc0f42ea7159f12ef699a7af4fda11ade710b3b050cfecb49cb8c544625a31ff",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -219,22 +230,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "CU",
       "name": "Curry",
       "file": "CU.csv",
-      "rows": 9066,
+      "rows": 9063,
       "wells": 987,
-      "bytes": 2499020,
-      "sha256": "3183fdee0b99406c83b6f62485ccf82064bd855920e5d821f3f34afd646728ff",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 2663834,
+      "sha256": "a79c3cce562d49f0e34bca7b55465f35df04e34bcca0e81e129124cffa403e66",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -245,7 +258,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -254,13 +268,14 @@
       "file": "DA.csv",
       "rows": 30918,
       "wells": 4296,
-      "bytes": 8672756,
-      "sha256": "6e991e3c96a382be7286e2fb3671262d4c3077ea385b838d016d6566ab28943a",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 9208168,
+      "sha256": "b99269e65f7223464c089299ef3c59849d884de113959a1ea1c175acd6a19b16",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -271,7 +286,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -280,13 +296,14 @@
       "file": "DB.csv",
       "rows": 1463,
       "wells": 282,
-      "bytes": 422019,
-      "sha256": "41cafd59595f42365533e029ecff1b6fbd879da9efdec51a7a46067b13d36fa9",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 447794,
+      "sha256": "4420a5456d22f6b451534be3f93914ce081e83d6b7d16670f199b5ec6f64c94b",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -297,7 +314,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -305,14 +323,15 @@
       "name": "Eddy",
       "file": "ED.csv",
       "rows": 15230,
-      "wells": 2300,
-      "bytes": 4453207,
-      "sha256": "d8a9513de9bc63f66b4a4c9e34c407220e184c6d5c2a5630d31c250fd72b19fc",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "wells": 2326,
+      "bytes": 4661873,
+      "sha256": "a9187543961e464ece03fdb7255248ffbf399db3f3172e1ce6821cd494a572bb",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -323,22 +342,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "GR",
       "name": "Grant",
       "file": "GR.csv",
-      "rows": 4077,
+      "rows": 4075,
       "wells": 1241,
-      "bytes": 1190028,
-      "sha256": "48f5dfaaa74f187f993d24480de0959fbab30b5046db2fb21e52b3a5a9dcc289",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 1258064,
+      "sha256": "374ed4d01836039aa6d4bca3ac6f8672c49bdf7bd641435cf5ebbdae1ad48db1",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -349,7 +370,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -358,13 +380,14 @@
       "file": "GU.csv",
       "rows": 1204,
       "wells": 194,
-      "bytes": 347410,
-      "sha256": "368a0b4b307dee7295bab4c73827e05cc247843631a2148b8bcefdcb63ce11f4",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 367206,
+      "sha256": "f57506d56c810f7b88c0d09e152509b33acc78dda3e03f2834acea66f6423384",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -375,7 +398,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -384,13 +408,14 @@
       "file": "HA.csv",
       "rows": 1170,
       "wells": 128,
-      "bytes": 344376,
-      "sha256": "14936532a08b9cf3b0dbbc54adb5083b448e460f896c597e29c61d1c3cbde861",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 362863,
+      "sha256": "e75f0e42d76613c52d726135a8ff3d1b5cec1c17fa07341052c603f5f7b57d5d",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -401,22 +426,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "HI",
       "name": "Hidalgo",
       "file": "HI.csv",
-      "rows": 3536,
-      "wells": 536,
-      "bytes": 1018772,
-      "sha256": "57a0015e47c3c0348696517813b86e30a508ab56e407d4f2c96bb32a5f42a453",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "rows": 3532,
+      "wells": 538,
+      "bytes": 1078048,
+      "sha256": "9d7dd5686a926bbb82b446872dde9bd0eeb290d9e43b8b4522124d3c9a49441c",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -427,7 +454,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -436,13 +464,14 @@
       "file": "LA.csv",
       "rows": 116,
       "wells": 17,
-      "bytes": 34344,
-      "sha256": "ed92666b4a07b1217c1e634b8b4dde2c4dbc645b9bb79cd62f63c34baff692a8",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 36355,
+      "sha256": "bd3f2e7aa8c68e567e52e0e88f8d4a8021c9b9a2845ef1d9aa6393f939374fe9",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -453,7 +482,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -461,14 +491,15 @@
       "name": "Lea",
       "file": "LE.csv",
       "rows": 49233,
-      "wells": 8344,
-      "bytes": 14038746,
-      "sha256": "c01dfdea75894aa9638fcc98205223ccac47f537ceb98e534ef38f09b198c0fb",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "wells": 8394,
+      "bytes": 14719957,
+      "sha256": "855df3b906d01fbf5cabf885adeea6b528ba3969ad94751f0bc03199d45db243",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -479,7 +510,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -488,13 +520,14 @@
       "file": "LI.csv",
       "rows": 18688,
       "wells": 2495,
-      "bytes": 5399662,
-      "sha256": "ced6ea088b72ca36215cafdbf9bef90c6bdc5e02ee665ed4dd9cadd81c7e56b8",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 5738232,
+      "sha256": "971979ff9fe3e85d2996da7d6237d10814d15665a22f59a33258ae882dc4cd7e",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -505,7 +538,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -514,13 +548,14 @@
       "file": "LU.csv",
       "rows": 16511,
       "wells": 1662,
-      "bytes": 4716156,
-      "sha256": "9aa9bbcb7c3dcfda84d15f7fcba14f03a535a7664d038dc8afcfce9d4308e553",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 5000257,
+      "sha256": "c11c90b5afb3a377f6a42bbee97109b9847053541d5d93d6c9946c9ea1335333",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -531,22 +566,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "MK",
       "name": "McKinley",
       "file": "MK.csv",
-      "rows": 3732,
-      "wells": 625,
-      "bytes": 1054795,
-      "sha256": "7159424fea6d6c38ea54ecb157cb9205e005821d37379e983f2aec269de8860a",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "rows": 3731,
+      "wells": 637,
+      "bytes": 1112195,
+      "sha256": "0c0576884ed703da8be526c40eb3541991e0600a813cd8b5f7a87a77b8567da6",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -557,22 +594,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "MO",
       "name": "Mora",
       "file": "MO.csv",
-      "rows": 4429,
+      "rows": 4439,
       "wells": 678,
-      "bytes": 1273998,
-      "sha256": "c053f681bf027736f3a237ee6ddfc733e4ce98fd57ac4972739efb02c7b6a80f",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 1341929,
+      "sha256": "7969f23bd39e2ffb6933a76acb5223d1c411e1fa1e64df6eff22f51aea00b6bb",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -583,7 +622,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -592,13 +632,14 @@
       "file": "OT.csv",
       "rows": 20325,
       "wells": 3117,
-      "bytes": 5847596,
-      "sha256": "e3fba7530bbf898f370279c60b461cd347684b7009544a2677ea93f361ddc72f",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 6192058,
+      "sha256": "b3f69c8768f07dd140f0389542ed859eeff88eadfb81d4317d23d986dc8aa960",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -609,7 +650,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -618,13 +660,14 @@
       "file": "QU.csv",
       "rows": 1257,
       "wells": 185,
-      "bytes": 374684,
-      "sha256": "793d1ded0dabbadd20c2526828f8876dc53e6e28de640b0dc1f7e29a0df94dee",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 396294,
+      "sha256": "b696f87d352184a3774621233e06a63e68a41ffbb484ce492af902401a04f637",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -635,7 +678,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -643,14 +687,15 @@
       "name": "Rio Arriba",
       "file": "RA.csv",
       "rows": 22086,
-      "wells": 5626,
-      "bytes": 6379153,
-      "sha256": "1ab68165cb58c20c7a148c0451e2d8a2bf77e210377fa53ddc70fb3f8d465eb7",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "wells": 5666,
+      "bytes": 6657141,
+      "sha256": "ae41b11f8ab836525cd64c4cf46e9f52291b4f34efc9b0a1990ed9bb88e0b24c",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -661,7 +706,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -669,14 +715,15 @@
       "name": "Roosevelt",
       "file": "RO.csv",
       "rows": 7174,
-      "wells": 1207,
-      "bytes": 2043237,
-      "sha256": "dea549afc09f6b4e2aff3b89376c834a28098b6381cb8525965c6b3c751c4c17",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "wells": 1211,
+      "bytes": 2139538,
+      "sha256": "e2dd00df164130243b52e572d26a5cf883d4cbb5f4c429f619f80af6bdc5bdcd",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -687,7 +734,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -696,13 +744,14 @@
       "file": "SA.csv",
       "rows": 37663,
       "wells": 5157,
-      "bytes": 10841096,
-      "sha256": "4cee1bacecc2ad2146bf3d3d3cbb73424d4f2da7f23a261d31033f80d0b16595",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 11493608,
+      "sha256": "9e1a6f1c79f46c9c56dbdbc0ea2d60bcf9a8a7a77be159d30b0aa6d089971c36",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -713,7 +762,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -722,13 +772,14 @@
       "file": "SF.csv",
       "rows": 45841,
       "wells": 8346,
-      "bytes": 13217474,
-      "sha256": "05eb2756dd4e0afb57eb42fc07b442f58833228be2514a9d27f62ba7b50e08e1",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 13956292,
+      "sha256": "2ae5f41d6d1b3fa7d58ec8d9a70f4144e716464ccbdbb3e1a87c3ce6d98f8c3c",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -739,7 +790,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -748,13 +800,14 @@
       "file": "SI.csv",
       "rows": 7669,
       "wells": 1402,
-      "bytes": 2195202,
-      "sha256": "16df8d960f7eb0acb17167c51dd379db11ec4e3ba1c2f764fa35768db7df0264",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 2327843,
+      "sha256": "6fc63424af02e6cd24dc3d2a3adb299156a1701b4a57100023196de73954ad5e",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -765,22 +818,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "SJ",
       "name": "San Juan",
       "file": "SJ.csv",
-      "rows": 5251,
-      "wells": 1836,
-      "bytes": 1501981,
-      "sha256": "346fc3b16a1d3be8aef47502755ec6421e94c6fcea7b9c0dcb79392074ea4cef",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "rows": 5250,
+      "wells": 1840,
+      "bytes": 1572187,
+      "sha256": "3e77bb3aa36fd9249d055dd37cb95a9fd883073928e7be52b095f754457f029b",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -791,7 +846,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -800,13 +856,14 @@
       "file": "SM.csv",
       "rows": 17422,
       "wells": 2137,
-      "bytes": 5011411,
-      "sha256": "1aaa21b24440480d84975955e918c50e8003996c5335342e3152618208f4d7f6",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 5299610,
+      "sha256": "8e4732f9ed504511ee50409d91c6c5192b7105600d1c3f2f8291a711c4b6c6ed",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -817,22 +874,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "SO",
       "name": "Socorro",
       "file": "SO.csv",
-      "rows": 8021,
-      "wells": 1596,
-      "bytes": 2291464,
-      "sha256": "893db3045c73e70db25235c0ae1f8ae54d4b7ed9be39e0d9b30d91fe211fd762",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "rows": 7983,
+      "wells": 1603,
+      "bytes": 2406013,
+      "sha256": "90f02904ff1c56ebbe8e4119f035683660e8391635ea11ede6ff3a49834ec5f4",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -843,7 +902,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -852,13 +912,14 @@
       "file": "TA.csv",
       "rows": 25296,
       "wells": 4942,
-      "bytes": 7317858,
-      "sha256": "69d8242b5b5fd497b1db3a3ffc3d5147d537077a2e9afd16370185a7819b8026",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "bytes": 7756926,
+      "sha256": "19f35cd21b604c19d957ba50c4029a6b27c05d9ff116e2a327991c2095144902",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -869,7 +930,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -877,14 +939,15 @@
       "name": "Torrance",
       "file": "TO.csv",
       "rows": 19979,
-      "wells": 2615,
-      "bytes": 5691754,
-      "sha256": "ffce8999c6d4b1fecd5df5bd46dc9743abbaabc85cd3322d28d390afa2466718",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "wells": 2617,
+      "bytes": 6013033,
+      "sha256": "a86c65dc5a50e2c5c007d1899643062bb4112677cf981484286982f1efab515b",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -895,22 +958,24 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
       "code": "UN",
       "name": "Union",
       "file": "UN.csv",
-      "rows": 2733,
-      "wells": 312,
-      "bytes": 803874,
-      "sha256": "ccc609df62ed4c6bb7cff0eb10df077248b33877e47989a8958b782cc8522d35",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "rows": 2734,
+      "wells": 313,
+      "bytes": 848128,
+      "sha256": "97478f5931ac545200c701d6abfdd7b2da10314bf91f0fa660ded01efc12c662",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -921,7 +986,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     },
     {
@@ -955,14 +1021,15 @@
       "name": "Valencia",
       "file": "VA.csv",
       "rows": 42126,
-      "wells": 5932,
-      "bytes": 12001140,
-      "sha256": "be0e83725bdb3c42a71a3bfcc388a4bac0e5f374c1a516311f5983f5af167b58",
-      "date_generated": "2026-10-27T15:23:54.210653Z",
+      "wells": 5934,
+      "bytes": 12770980,
+      "sha256": "007caf4730a3e2fd26347a9ffe68a1d00c511a213d02076cc2a4b6eeaadeb300",
+      "date_generated": "2026-11-12T19:20:29.435148Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
         "well",
+        "true_well",
         "topDepth_ft",
         "bottomDepth_ft",
         "topElev_ft",
@@ -973,7 +1040,8 @@
         "latitude",
         "longitude",
         "materialCleanNoConf",
-        "feith_link"
+        "feith_link",
+        "identity_note"
       ]
     }
   ]
