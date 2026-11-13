@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-12T20:37:15.228347Z",
+  "generated_at_utc": "2026-11-13T16:12:15.216561Z",
   "configuration": "all",
   "requested_counties": [
     "BE",
@@ -53,6 +53,7 @@
     "longitude",
     "materialCleanNoConf",
     "feith_link",
+    "feith_link_alt",
     "identity_note"
   ],
   "counties_written_this_run": [
@@ -90,19 +91,19 @@
     "UN",
     "VA"
   ],
-  "total_rows": 530543,
-  "total_wells": 83771,
+  "total_rows": 544266,
+  "total_wells": 86287,
   "county_file_count": 34,
   "counties": [
     {
       "code": "BE",
       "name": "Bernalillo",
       "file": "BE.csv",
-      "rows": 66145,
-      "wells": 9569,
-      "bytes": 20181744,
-      "sha256": "e009f9cc3707470a7bcc343d3c535c3b1e31fc7a04713be44c0c32bc3b804f67",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 64909,
+      "wells": 9399,
+      "bytes": 20045986,
+      "sha256": "e5a3e7602b5bf97f0fc55b61d1b2a31f1942b8d3bb3be38ac72ac464ce651f16",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -119,6 +120,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -126,11 +128,11 @@
       "code": "CA",
       "name": "Catron",
       "file": "CA.csv",
-      "rows": 4995,
-      "wells": 1090,
-      "bytes": 1541816,
-      "sha256": "168daae37947ce282d02623ce0a9f7669b652e0a48bf977034c4fc25709f201b",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 4975,
+      "wells": 1086,
+      "bytes": 1554211,
+      "sha256": "1348d4f6e8e8d6a939b54bcf0a5c799a71e9606215fb2e222a7aaa8efb312c07",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -147,6 +149,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -154,11 +157,11 @@
       "code": "CH",
       "name": "Chaves",
       "file": "CH.csv",
-      "rows": 19209,
-      "wells": 2834,
-      "bytes": 5981774,
-      "sha256": "9f30d04421b60347b1c019f74bc4f382778cf8ab67573ed492604f010b98a45c",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 19213,
+      "wells": 2833,
+      "bytes": 6622146,
+      "sha256": "62772b2560509ad640c423e4aad59432b2d8f6959aad2807cfc07a33c7ef3147",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -175,6 +178,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -182,11 +186,11 @@
       "code": "CI",
       "name": "Cibola",
       "file": "CI.csv",
-      "rows": 5139,
-      "wells": 983,
-      "bytes": 1549082,
-      "sha256": "6e9d03e440855ad3e547099e8c8ac325658c1fa763797d1c5dbc4773f38a85fb",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 5598,
+      "wells": 1105,
+      "bytes": 1798004,
+      "sha256": "9dc00be09bdf0e39aff5e37066d87ed7f00258ce3cc9f301c630df0cc4eaf945",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -203,6 +207,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -210,11 +215,11 @@
       "code": "CO",
       "name": "Colfax",
       "file": "CO.csv",
-      "rows": 4292,
-      "wells": 607,
-      "bytes": 1317194,
-      "sha256": "d103e2481de055c20ac2a82ad1fd15d41a6d956f6711b2d270255b727788ea7e",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 4522,
+      "wells": 664,
+      "bytes": 1422196,
+      "sha256": "940078e0e0815ba29f84e3627450eccb4424da1736d0ff6108e9400b7ded93dc",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -231,6 +236,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -238,11 +244,11 @@
       "code": "CU",
       "name": "Curry",
       "file": "CU.csv",
-      "rows": 9258,
-      "wells": 986,
-      "bytes": 2736453,
-      "sha256": "2ccb72d0f8cec3aa1bf87f4ef9ce926255c5b4b92bb0af6dee3e558a5d7a939e",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 9298,
+      "wells": 990,
+      "bytes": 2771313,
+      "sha256": "379e9fac910a6f2969bd4061be976e38fe6557a085e89d842f8339238eea7d62",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -259,6 +265,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -266,11 +273,11 @@
       "code": "DA",
       "name": "Dona Ana",
       "file": "DA.csv",
-      "rows": 30955,
-      "wells": 4296,
-      "bytes": 9281651,
-      "sha256": "147dee708962a9397fe860414b03add8ae3523caa9232a4b7b3a7b699506343f",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 31501,
+      "wells": 4364,
+      "bytes": 9712310,
+      "sha256": "e02f279730a839a0c5ca26eb08e282a99facb8291e9a99e4777f297fa64ddff7",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -287,6 +294,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -294,11 +302,11 @@
       "code": "DB",
       "name": "DeBaca",
       "file": "DB.csv",
-      "rows": 1463,
-      "wells": 282,
-      "bytes": 450731,
-      "sha256": "c5462cd222517c60cdedff1a8d67b84d18e1f02a5365dea7d94e257120cfe4bc",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 1464,
+      "wells": 283,
+      "bytes": 457127,
+      "sha256": "0ed110e69c154bce6885125bff301c5dd9b118df393f700f7b8f233534d5893e",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -315,6 +323,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -322,11 +331,11 @@
       "code": "ED",
       "name": "Eddy",
       "file": "ED.csv",
-      "rows": 15230,
-      "wells": 2326,
-      "bytes": 4692563,
-      "sha256": "9e6ad34c5d866d701eebfd9aa9a55d1232b4e80838a359cf7cbc6b419b10e5a7",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 16927,
+      "wells": 2647,
+      "bytes": 5751025,
+      "sha256": "345421bd02fc88f42ea7bf10155be348add61145c999ae30eae29cddfa071f1c",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -343,6 +352,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -350,11 +360,11 @@
       "code": "GR",
       "name": "Grant",
       "file": "GR.csv",
-      "rows": 4075,
-      "wells": 1241,
-      "bytes": 1266271,
-      "sha256": "8f21994d447431591469199cff8aaba77c02866be54e8c8cb6dd7edb87bb1aac",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 4093,
+      "wells": 1243,
+      "bytes": 1289024,
+      "sha256": "207db3ae9b93843e93f435224a99934a77e293e31e7323964d3ed1d71f1963ae",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -371,6 +381,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -378,11 +389,11 @@
       "code": "GU",
       "name": "Guadalupe",
       "file": "GU.csv",
-      "rows": 1253,
-      "wells": 194,
-      "bytes": 384729,
-      "sha256": "662ae3c4c54b629fbeec45a843d1e6aafd60d457ce31efa3a115276b298a38c9",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 1226,
+      "wells": 190,
+      "bytes": 377394,
+      "sha256": "2dc7ea5d1a34babd8b9d5534cbf63b57b174da447f7cc0ec4d17d9b1eea1de2e",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -399,6 +410,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -406,11 +418,11 @@
       "code": "HA",
       "name": "Harding",
       "file": "HA.csv",
-      "rows": 1208,
-      "wells": 128,
-      "bytes": 376605,
-      "sha256": "4a0f0dc7e9264898a76aef8ebeff3690a61e56fc12dacb32bff6ed0d44cbcf10",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 1243,
+      "wells": 131,
+      "bytes": 389911,
+      "sha256": "a0efb06a5260b0c740a2b93a7e1dc77a789515b72adc8f17e592c74f3ac311f1",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -427,6 +439,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -434,11 +447,11 @@
       "code": "HI",
       "name": "Hidalgo",
       "file": "HI.csv",
-      "rows": 3880,
-      "wells": 536,
-      "bytes": 1193583,
-      "sha256": "9932f8311d790c921e9db5d9fbb0fb37ca8985b80ef44cb6724125a921832180",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 3911,
+      "wells": 542,
+      "bytes": 1236893,
+      "sha256": "b7c41303f4c211415a05f172627df0bf6e48c2496b2ceb81aaec56377499d514",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -455,6 +468,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -464,9 +478,9 @@
       "file": "LA.csv",
       "rows": 116,
       "wells": 17,
-      "bytes": 36967,
-      "sha256": "85ee21dce5d02684a0202a97a1528cf43e07d2941c6959a514ff1d0c394ebb73",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "bytes": 37098,
+      "sha256": "baeacc9f240c57cbcf68af59526d86081cef48cfd9984d804f5cfb5b5872cadd",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -483,6 +497,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -490,11 +505,11 @@
       "code": "LE",
       "name": "Lea",
       "file": "LE.csv",
-      "rows": 49233,
-      "wells": 8394,
-      "bytes": 14819476,
-      "sha256": "7798c32dde195aeb18be434d7fd86a0a6086e28cd270f9d8164fb21303c169b9",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 57916,
+      "wells": 9767,
+      "bytes": 19468726,
+      "sha256": "f02075902dd1e380b3b9dd1eec9620c19cef9c3b0fddc98a6b0b324ed2875666",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -511,6 +526,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -518,11 +534,11 @@
       "code": "LI",
       "name": "Lincoln",
       "file": "LI.csv",
-      "rows": 18688,
+      "rows": 18678,
       "wells": 2495,
-      "bytes": 5775700,
-      "sha256": "a54be38c3a3ff14d5d03997e0a0457a7015cac382b426b744071f879641ca459",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "bytes": 5873722,
+      "sha256": "9285e6ae3206b472a22caff4b4cfd9ac80c24d9f8c7210629bfd0148b02d1827",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -539,6 +555,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -546,11 +563,11 @@
       "code": "LU",
       "name": "Luna",
       "file": "LU.csv",
-      "rows": 17692,
-      "wells": 1662,
-      "bytes": 5386647,
-      "sha256": "4b4bebc21a015341578f682bf7f2f692b23b3edb1884884501bf348fe38bc46d",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 17644,
+      "wells": 1658,
+      "bytes": 5398056,
+      "sha256": "60ecda01697ebca4ae1b222c33c8748e40731dbea79b4f4150f2e45dbf3055e8",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -567,6 +584,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -574,11 +592,11 @@
       "code": "MK",
       "name": "McKinley",
       "file": "MK.csv",
-      "rows": 3948,
-      "wells": 629,
-      "bytes": 1176439,
-      "sha256": "67d782ebe6a854fc3111693479022b1cb1709c143a528071cba7544d2903589e",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 5068,
+      "wells": 817,
+      "bytes": 1741188,
+      "sha256": "e3bfe06f09a357250f8d032a0691e8e5402f02bf9b7193946c3c13ecf6d1ab06",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -595,6 +613,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -602,11 +621,11 @@
       "code": "MO",
       "name": "Mora",
       "file": "MO.csv",
-      "rows": 4514,
-      "wells": 678,
-      "bytes": 1374071,
-      "sha256": "9838c872e35355d9f53ffb8ecfe31ac1350cee1e3003af7dc1bc79151a6957ae",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 4673,
+      "wells": 702,
+      "bytes": 1448098,
+      "sha256": "fe8be9427a7ddacd8d62acca722ddc753760f31804b6af154519f5027e412bcd",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -623,6 +642,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -630,11 +650,11 @@
       "code": "OT",
       "name": "Otero",
       "file": "OT.csv",
-      "rows": 20325,
-      "wells": 3117,
-      "bytes": 6232866,
-      "sha256": "3c2f6c62b94b7ac76b8c1b500b6de794ff480e9b7d75785d03e5c71ef537eb28",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 20270,
+      "wells": 3101,
+      "bytes": 6266062,
+      "sha256": "d7ecba72836953d99866111109ee1b844f453fb97c5af46b8f3a7d1f4b7d4d2f",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -651,6 +671,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -660,9 +681,9 @@
       "file": "QU.csv",
       "rows": 1306,
       "wells": 185,
-      "bytes": 414161,
-      "sha256": "88d83b06605eae949dbba50d4567eea23fb9094958ec84c4e19743b6696e87b3",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "bytes": 415482,
+      "sha256": "8c857db9095b3232818d934d3ccc7629891c6938a79a4d725f635264e9c9bafc",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -679,6 +700,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -686,11 +708,11 @@
       "code": "RA",
       "name": "Rio Arriba",
       "file": "RA.csv",
-      "rows": 22106,
-      "wells": 5666,
-      "bytes": 6709586,
-      "sha256": "9f7187c2d1a25b5c1de2c4a5ddf723915ea8e0b3ca9d85f93fe9a9d3937eef7f",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 22668,
+      "wells": 5837,
+      "bytes": 7092543,
+      "sha256": "8b748f0cd56adae3df88566254e9cb7684c54b03f628d2dafee168cfa576de99",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -707,6 +729,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -714,11 +737,11 @@
       "code": "RO",
       "name": "Roosevelt",
       "file": "RO.csv",
-      "rows": 7174,
-      "wells": 1211,
-      "bytes": 2153914,
-      "sha256": "441325cefa347cb674934d2ffea7cb8a1624d7bc561c4952ac055fc478628b24",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 7677,
+      "wells": 1302,
+      "bytes": 2439566,
+      "sha256": "f1961cde3180730c7bab8fa3fa9c078268df8729e5c9e73a19c1c0014c674de0",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -735,6 +758,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -742,11 +766,11 @@
       "code": "SA",
       "name": "Sandoval",
       "file": "SA.csv",
-      "rows": 38018,
-      "wells": 5156,
-      "bytes": 11681967,
-      "sha256": "a2c94a469b41be350327bcd6edd07983ca78ee9212704bd5a043b9829941af25",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 37995,
+      "wells": 5148,
+      "bytes": 11784030,
+      "sha256": "059e1ae28d1df1a36fac58c43691d7b172ded829ec22a7a1d31e5d8ba987dff0",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -763,6 +787,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -770,11 +795,11 @@
       "code": "SF",
       "name": "Santa Fe",
       "file": "SF.csv",
-      "rows": 45841,
-      "wells": 8346,
-      "bytes": 14048793,
-      "sha256": "0cc297f7e9b9bdc87594ea4170eb238066e7f82868733e32c871aaf0517c85f9",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 45808,
+      "wells": 8328,
+      "bytes": 14117633,
+      "sha256": "b4ebe43c27065e35e7ee7bb141f423c4f174894b21cedf5f0a02c3779d1e93de",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -791,6 +816,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -798,11 +824,11 @@
       "code": "SI",
       "name": "Sierra",
       "file": "SI.csv",
-      "rows": 7877,
-      "wells": 1402,
-      "bytes": 2405377,
-      "sha256": "399da273a741aa9798259181817ccfe56841fad46a28cf10accf71e2d9b4a3ff",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 7871,
+      "wells": 1404,
+      "bytes": 2433985,
+      "sha256": "d40e72fa31d6c0dd250a38ec8abeb65864f5c58547059ff8f46fec4d4de86e0a",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -819,6 +845,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -826,11 +853,11 @@
       "code": "SJ",
       "name": "San Juan",
       "file": "SJ.csv",
-      "rows": 5538,
-      "wells": 1837,
-      "bytes": 1669903,
-      "sha256": "7879354e404717bfd53d9df79ed383f3c97ac77f7924429f86275af06abc6dc6",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 6056,
+      "wells": 2056,
+      "bytes": 1949846,
+      "sha256": "091d2d0efdd501e7d1031ece1b9b78865e4979616d54582917e62b598919bea8",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -847,6 +874,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -854,11 +882,11 @@
       "code": "SM",
       "name": "San Miguel",
       "file": "SM.csv",
-      "rows": 17422,
-      "wells": 2137,
-      "bytes": 5334710,
-      "sha256": "c3d15d245ad394d188d9235281cc139dbca49ab2bcb1ff7a7102a37dbd52f03b",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 17373,
+      "wells": 2130,
+      "bytes": 5340461,
+      "sha256": "0ad1117c515c1f5b722cb6440c669ea622c7ee0c50c6b1a65e98ba9ec8f0e78a",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -875,6 +903,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -882,11 +911,11 @@
       "code": "SO",
       "name": "Socorro",
       "file": "SO.csv",
-      "rows": 8567,
-      "wells": 1596,
-      "bytes": 2596565,
-      "sha256": "2d4513fb782bb8cda89c1b91613a3b19e79db0a1857dc6f49e855e197c9394e2",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 9133,
+      "wells": 1704,
+      "bytes": 2910884,
+      "sha256": "63cc0194d16a2bd6746f2ea704c9b26324d88cec20910326126ea13d663390f9",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -903,6 +932,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -910,11 +940,11 @@
       "code": "TA",
       "name": "Taos",
       "file": "TA.csv",
-      "rows": 25296,
-      "wells": 4942,
-      "bytes": 7807746,
-      "sha256": "a837ee09ea94603a82a7879b9ef896f7a881e84b72ecf76941047cba89d40ccc",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 25278,
+      "wells": 4936,
+      "bytes": 7959786,
+      "sha256": "d3de5a419a207038062210c20ea8d4316813468304769202dde0db632e4900c4",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -931,6 +961,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -938,11 +969,11 @@
       "code": "TO",
       "name": "Torrance",
       "file": "TO.csv",
-      "rows": 19981,
-      "wells": 2617,
-      "bytes": 6055188,
-      "sha256": "66c88b1eb3f062f5f9f4a9f54ec3c18e11db57288a41f13644ca811444814fc8",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 20102,
+      "wells": 2619,
+      "bytes": 6182676,
+      "sha256": "da769c082de4275c8c2b6d9f4a21acb256234647bc5834fe66326af89cf1f1ff",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -959,6 +990,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -966,11 +998,11 @@
       "code": "UN",
       "name": "Union",
       "file": "UN.csv",
-      "rows": 2821,
-      "wells": 312,
-      "bytes": 881341,
-      "sha256": "ae7a616d03c161d928575e20466fbd5b28d46593eaee88d04a014d8aaebdf0ad",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 3018,
+      "wells": 339,
+      "bytes": 986099,
+      "sha256": "d63feaf7587ec886fb6d99b244d3673510240a605032e9cf985d7ad4469e5e5d",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -987,6 +1019,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     },
@@ -1020,11 +1053,11 @@
       "code": "VA",
       "name": "Valencia",
       "file": "VA.csv",
-      "rows": 42126,
-      "wells": 5934,
-      "bytes": 12855917,
-      "sha256": "1587db05941b04f70e894fd3d507d5da65503190230106e63a2d13c9a1e46a5b",
-      "date_generated": "2026-11-12T20:37:15.228347Z",
+      "rows": 41884,
+      "wells": 5899,
+      "bytes": 13023111,
+      "sha256": "4fcb3d31e8f1a8a5506af82b3c32f33654d12e96023ff7650d39873d18583701",
+      "date_generated": "2026-11-13T16:12:15.216561Z",
       "configuration": "all",
       "source_master_file": "all_masterWellIntervals_withMaterial.csv",
       "columns": [
@@ -1041,6 +1074,7 @@
         "longitude",
         "materialCleanNoConf",
         "feith_link",
+        "feith_link_alt",
         "identity_note"
       ]
     }
